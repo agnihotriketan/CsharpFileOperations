@@ -1,0 +1,1 @@
+.CSharp.net-informations.com binary writer test

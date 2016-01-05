@@ -4,3 +4,8 @@ D:\MyGit\FileOperations\FileOperations\FileOperations\bin\Debug\FileOperations.p
 D:\MyGit\FileOperations\FileOperations\FileOperations\obj\Debug\FileOperations.csprojResolveAssemblyReference.cache
 D:\MyGit\FileOperations\FileOperations\FileOperations\obj\Debug\FileOperations.exe
 D:\MyGit\FileOperations\FileOperations\FileOperations\obj\Debug\FileOperations.pdb
+D:\MyGit\FileOperations\CsharpFileOperations\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+D:\MyGit\FileOperations\CsharpFileOperations\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+D:\MyGit\FileOperations\CsharpFileOperations\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+D:\MyGit\FileOperations\CsharpFileOperations\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+D:\MyGit\FileOperations\CsharpFileOperations\FileOperations\FileOperations\obj\Debug\FileOperations.pdb
