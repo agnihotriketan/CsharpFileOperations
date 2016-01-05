@@ -70,6 +70,8 @@ namespace FileOperations
 
             //Get All files of directory
             DirectoryInfo dirinfo = new DirectoryInfo(@"D:\MyGit\FileOperations\CsharpFileOperations\FileOperations\FileOperations\bin\Debug");
+
+            dirinfo.CreateSubdirectory("Sub");
             //get all the files in the directory and their name and size
             FileInfo[] filelist = dirinfo.GetFiles();
             foreach (FileInfo file in filelist)
